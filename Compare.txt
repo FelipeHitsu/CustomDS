@@ -1,0 +1,8 @@
+int compareint(int i, int r)
+{
+	return i - r;
+}
+int compareintDc(int i, int r)
+{
+	return i + r;
+}
